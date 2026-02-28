@@ -50,7 +50,7 @@ Excel file reading (data ingestion)
 
 Constraint validation logic
 
-Likely Java or Python (depending on your implementation)
+Likely Java
 
 ✨ Key Features
 📊 Data Import
